@@ -1,0 +1,27 @@
+# Vietnam Province Directory Project Guidelines
+
+## Language
+- **Communication**: Vietnamese (Vietnam)
+- **Source Code**: English (use English for all variable names, functions, classes, etc.)
+- **Commit Message**: English (use English for all commit messages)
+
+## Git Workflow
+1. Create a new `feature/` branch for each new feature
+2. Write clear, descriptive commit messages in English
+3. Open a merge request for code review before merging
+
+## Commit Convention
+All commit messages **MUST BE WRITTEN IN ENGLISH** and start with a prefix from the list below:
+
+- `feat`: New feature
+- `fix`: Bug fix
+- `style`: Code style changes (formatting, missing semicolons, etc.)
+- `perf`: Performance improvements
+- `test`: Adding or updating tests
+- `build`: Changes to build tools or external dependencies
+- `chore`: Routine tasks or maintenance
+- `refact`: Code refactoring (no behavior changes)
+- `revert`: Reverting previous changes
+- `docs`: Documentation updates
+- `types`: TypeScript type changes
+- `wip`: Work in progress (temporary, not final)
