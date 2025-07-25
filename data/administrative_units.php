@@ -2,7 +2,7 @@
 
 /**
  * Đơn vị hành chính Việt Nam
- * Generated on: 25-07-2025
+ * Generated on: 25/07/2025
  */
 
 $administrativeUnits = [
@@ -4719,13 +4719,13 @@ $administrativeUnits = [
             [
                 'unit_code' => '06994',
                 'name' => 'Đặc khu Vân Đồn',
-                'type' => 'Phường',
+                'type' => 'Đặc khu',
                 'level' => '2',
             ],
             [
                 'unit_code' => '07192',
                 'name' => 'Đặc khu Cô Tô',
-                'type' => 'Phường',
+                'type' => 'Đặc khu',
                 'level' => '2',
             ],
         ],
@@ -6909,13 +6909,13 @@ $administrativeUnits = [
             [
                 'unit_code' => '11914',
                 'name' => 'Đặc khu Cát Hải',
-                'type' => 'Phường',
+                'type' => 'Đặc khu',
                 'level' => '2',
             ],
             [
                 'unit_code' => '11948',
                 'name' => 'Đặc khu Bạch Long Vĩ',
-                'type' => 'Phường',
+                'type' => 'Đặc khu',
                 'level' => '2',
             ],
         ],
@@ -11019,7 +11019,7 @@ $administrativeUnits = [
             [
                 'unit_code' => '19742',
                 'name' => 'Đặc khu Cồn Cỏ',
-                'type' => 'Phường',
+                'type' => 'Đặc khu',
                 'level' => '2',
             ],
         ],
@@ -11839,7 +11839,7 @@ $administrativeUnits = [
             [
                 'unit_code' => '20333',
                 'name' => 'Đặc khu Hoàng Sa',
-                'type' => 'Phường',
+                'type' => 'Đặc khu',
                 'level' => '2',
             ],
         ],
@@ -12423,7 +12423,7 @@ $administrativeUnits = [
             [
                 'unit_code' => '21548',
                 'name' => 'Đặc khu Lý Sơn',
-                'type' => 'Phường',
+                'type' => 'Đặc khu',
                 'level' => '2',
             ],
         ],
@@ -12501,7 +12501,7 @@ $administrativeUnits = [
                 'level' => '2',
             ],
             [
-                'unit_code' => '',
+                'unit_code' => '21673',
                 'name' => 'Phường Hoài Nhơn Nam',
                 'type' => 'Phường',
                 'level' => '2',
@@ -13639,7 +13639,7 @@ $administrativeUnits = [
             [
                 'unit_code' => '22736',
                 'name' => 'Đặc khu Trường Sa',
-                'type' => 'Phường',
+                'type' => 'Đặc khu',
                 'level' => '2',
             ],
         ],
@@ -15011,7 +15011,7 @@ $administrativeUnits = [
             [
                 'unit_code' => '23272',
                 'name' => 'Đặc khu Phú Quý',
-                'type' => 'Phường',
+                'type' => 'Đặc khu',
                 'level' => '2',
             ],
         ],
@@ -16605,7 +16605,7 @@ $administrativeUnits = [
             [
                 'unit_code' => '26732',
                 'name' => 'Đặc khu Côn Đảo',
-                'type' => 'Phường',
+                'type' => 'Đặc khu',
                 'level' => '2',
             ],
         ],
@@ -19169,19 +19169,19 @@ $administrativeUnits = [
             [
                 'unit_code' => '31078',
                 'name' => 'Đặc khu Phú Quốc',
-                'type' => 'Phường',
+                'type' => 'Đặc khu',
                 'level' => '2',
             ],
             [
                 'unit_code' => '31105',
                 'name' => 'Đặc khu Thổ Châu',
-                'type' => 'Phường',
+                'type' => 'Đặc khu',
                 'level' => '2',
             ],
             [
                 'unit_code' => '31108',
                 'name' => 'Đặc khu Kiên Hải',
-                'type' => 'Phường',
+                'type' => 'Đặc khu',
                 'level' => '2',
             ],
         ],
