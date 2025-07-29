@@ -11,7 +11,7 @@ Dữ liệu chính thức về danh mục và mã số các đơn vị hành ch�
 ## Nội dung
 
 **Đơn vị hành chính cấp tỉnh:**
-- 63 tỉnh/thành phố
+- 34 tỉnh/thành phố
 - Mã số 2 chữ số
 
 **Đơn vị hành chính cấp xã:**
